@@ -13,7 +13,7 @@ linkedin: mathecol-joe-brennan
 orcid: 0009-0006-4178-9919
 date: "`r format(Sys.time(), '%B %Y')`"
 headcolor: "9e2e2e"
-aboutme: "I am interested in the ecological and evolutionary mechanisms of coexistnce, community assembly, and community disassembly using mathematical and computational models."
+aboutme: "I am interested in the ecological and evolutionary mechanisms of coexistence, community assembly, and community disassembly using mathematical and computational models."
 docname: awesomecv
 output:
   vitae::awesomecv
