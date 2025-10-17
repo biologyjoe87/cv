@@ -1,13 +1,8 @@
 edu <- tribble(
   ~degree, ~startYear,  ~endMonth, ~endYear, ~inst, ~where, ~detail,
-  "University of California, Davis", 2020, "Present", NA, "Doctor of Philosophy", "California, USA", "Biochemistry, Molecular, Cellular, and Developmental Biology Graduate Group",
-  "University of California, Davis", 2020, "Present", NA, "Doctor of Philosophy", "California, USA", "Space",
-  "Concordia University, St. Paul", 2014, NA, 2018, "Bachelors of Arts & Science", "Minnesota, USA", "Biology, BS",
-  "Concordia University, St. Paul", 2014, NA, 2018, "Bachelors of Arts & Science", "Minnesota, USA", "Chemistry, BA",
-  "Concordia University, St. Paul", 2014, NA, 2018, "Bachelors of Arts & Science", "Minnesota, USA", "Honors in Research",
-  "Concordia University, St. Paul", 2014, NA, 2018, "Bachelors of Arts & Science", "Minnesota, USA", "Minor in Mathematics",
-  "Concordia University, St. Paul", 2014, NA, 2018, "Bachelors of Arts & Science", "Minnesota, USA", "Magna Cum Laude",
-  "Hennepin Technical College", 2008, NA, 2010, "Associate of Applied Science in Automotive Mechanics", "Minnesota, USA", "Academic Excellence",
+  "University of California, Davis", 2022, "Present", NA, "Doctor of Philosophy", "California, USA", "Population Biology Graduate Group",
+  "College of Charleston Honors College", 2018, NA, 2022, "Bachelors of Arts & Science", "Charleston, South Carolina, USA", "Biology, BA",
+  "College of Charleston Honors College", 2018, NA, 2022, "Bachelors of Arts & Science", "Charleston, South Carolina, USA", "Mathematics, BS",
 )
 
 exp <- tribble(
@@ -50,11 +45,7 @@ community <- tribble(
 
 funds <- tribble(
   ~area, ~accomplishment, ~startYear, ~endYear, ~where, ~detail,
-  "Graduate Research Fellowship Program (GRFP)", "National Science Foundation", 2021, 2024, "University of California, Davis", NA,
-  "Undergraduate Preparation Fellowship (UPF)", "National Institute of Health", 2020, 2021, "University of California, Davis", NA,
-  "Postbaccalaureate Research Education Program (PREP)", "National Institute of Health", 2019, 2020, "University of California, Davis", NA,
-  "Post 9/11 GI Bill", "US Department of Veteran Affairs", 2014, 2018, "Concordia University, St. Paul", NA,
-  "Federal Pell Grant", "US Department of Education", 2008, 2010, "Hennepin Technical College", NA,
+  "Graduate Research Fellowship Program", "National Science Foundation", 2022, Present, "University of California, Davis", "$159,000",
 )
 
 honors <- tribble(
