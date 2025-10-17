@@ -5,12 +5,12 @@ namecolor: "#E1BE6A"
 surname: Brennan
 position: "PhD Candidate"
 pronouns: He/Him
-address: "Data Intensive Biology lab of the University of California, Davis"
+address: "Dynamics of Ecological and Evolutionary Processes lab of the University of California, Davis"
 #phone: +1 555 555 5555
 www: "biologyjoe87.github.io"
 email: "jlbrennan@ucdavis.edu"
 github: biologyjoe87
-linkedin: colton-baumler
+linkedin: mathecol-joe-brennan
 orcid: 0009-0006-4178-9919
 headcolor: "#FFD700"
 addresscolor: "#A7D3DC"
@@ -18,7 +18,7 @@ codecolor: "#CCCCCC"
 backcolor: "#000"
 textcolor: "#FFFFFF"
 date: "`r format(Sys.time(), '%B %Y')`"
-aboutme: "I am deeply engaged in bioinformatics and mentorship. I excitedly wrangle data, craft software, and create dynamic mentorship opportunities."
+aboutme: "I am interested in the ecological and evolutionary mechanisms of coexistnce, community assembly, and community disassembly using mathematical and computational models."
 output:
   vitae::markdowncv:
     theme: ccbaumler
