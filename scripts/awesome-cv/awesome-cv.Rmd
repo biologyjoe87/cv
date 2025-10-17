@@ -1,19 +1,19 @@
 ---
-name: Colton
-surname: Baumler
-position: "Graduate Student Candidate"
+name: Joe
+surname: Brennan
+position: "PhD Candidate"
 pronouns: He/Him
-address: "Data Intensive Biology lab of the University of California, Davis"
+address: "Dynamics of Ecological and Evolutionary Processes lab of the University of California, Davis"
 #phone: +1 555 555 5555
 www: ""
-email: "ccbaumler@ucdavis.edu"
+email: "jlbrennan@ucdavis.edu"
 twitter: ""
-github: ccbaumler
-linkedin: colton-baumler
-orcid: 0000-0002-5926-7792
+github: biologyjoe87
+linkedin: mathecol-joe-brennan
+orcid: 0009-0006-4178-9919
 date: "`r format(Sys.time(), '%B %Y')`"
 headcolor: "9e2e2e"
-aboutme: "I am deeply engaged in bioinformatics and mentorship. I excitedly wrangle data, craft software, and create dynamic mentorship opportunities."
+aboutme: "I am interested in the ecological and evolutionary mechanisms of coexistnce, community assembly, and community disassembly using mathematical and computational models."
 docname: awesomecv
 output:
   vitae::awesomecv
