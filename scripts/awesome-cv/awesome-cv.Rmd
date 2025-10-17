@@ -5,7 +5,7 @@ position: "PhD Candidate"
 pronouns: He/Him
 address: "Dynamics of Ecological and Evolutionary Processes lab of the University of California, Davis"
 #phone: +1 555 555 5555
-www: ""
+www: "biologyjoe87.github.io"
 email: "jlbrennan@ucdavis.edu"
 twitter: ""
 github: biologyjoe87
