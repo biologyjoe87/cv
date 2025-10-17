@@ -45,7 +45,7 @@ community <- tribble(
 
 funds <- tribble(
   ~area, ~accomplishment, ~startYear, ~endYear, ~where, ~detail,
-  "Graduate Research Fellowship Program", "National Science Foundation", 2022, Present, "University of California, Davis", "$159,000",
+  "Graduate Research Fellowship Program", "National Science Foundation ($159,000)", 2022, Present, "University of California, Davis", NA,
 )
 
 honors <- tribble(
