@@ -18,7 +18,7 @@ codecolor: "#CCCCCC"
 backcolor: "#000"
 textcolor: "#FFFFFF"
 date: "`r format(Sys.time(), '%B %Y')`"
-aboutme: "I am interested in the ecological and evolutionary mechanisms of coexistnce, community assembly, and community disassembly using mathematical and computational models."
+aboutme: "I am interested in the ecological and evolutionary mechanisms of coexistence, community assembly, and community disassembly using mathematical and computational models."
 output:
   vitae::markdowncv:
     theme: ccbaumler
